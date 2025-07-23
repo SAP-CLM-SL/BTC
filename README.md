@@ -1,5 +1,7 @@
 # SAP Businees Transformation Center Hands-on Session
-Welcome to the hands-on session! In this exercise, you will practice data migration from SAP ECC to SAP S/4HANA using SAP Business Transsformation Center.
+Welcome to the hands-on session! 
+
+In this exercise, you will practice data migration from SAP ECC to SAP S/4HANA using SAP Business Transsformation Center.
 
 SAP Business Transsformation Center is a cloud-based offering that allows you to plan data transitioning projects and it is powered by SAP Cloud ALM.
 
