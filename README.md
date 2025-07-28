@@ -18,22 +18,22 @@ Password: shared in session
 - Follow the instructions in [Handson-Guide](SAP-BTC-Lean-SDT-Handson-Guide.pdf)
 
 ## Exercises
-- Exercise 1 – Upload SAP Readiness Check file for SAP ERP Usage and Data Profiling (UDP)
-- Exercise 2 – Create a Digital Blueprint
-- Exercise 3 – Get an overview about the data profile of your ECC source system
-- Exercise 4 – Choose your company codes in scope for the transition to SAP S/4HANA
-- Exercise 5 – Choose the fiscal year in scope for the transition to SAP S/4HANA
-- Exercise 6 – Review your first scoping decision and its data impact
-- Exercise 7 – Choose your transformation objects in scope for the transition to SAP S/4HANA
-- Exercise 8 – Review your scoping decision
-- Exercise 9 – Scan the SAP ECC System
-- Exercise 10 - Include Scan Results into the Digital Blueprint & Select Scanned Tables
-- Exercise 11 – Confirm the Digital Blueprint
-- Exercise 12 – Create a Transformation Model from your Digital Blueprint
-- Exercise 13 – Create a Transformation Model Version	
-- Exercise 14 – Create a Cycle and Prepare Systems for Migration
-- Exercise 15 – Execute SAP ECC to SAP S/4HANA Data Transformation
-- Exercise 16 – Postprocess Cycles
+- [Exercise 1 – Upload SAP Readiness Check file for SAP ERP Usage and Data Profiling (UDP)](./Exercises/Exercise-1.md)
+- [Exercise 2 – Create a Digital Blueprint](./Exercises/Exercise-2.md)
+- [Exercise 3 – Get an overview about the data profile of your ECC source system](./Exercises/Exercise-3.md)
+- [Exercise 4 – Choose your company codes in scope for the transition to SAP S/4HANA](./Exercises/Exercise-4.md)
+- [Exercise 5 – Choose the fiscal year in scope for the transition to SAP S/4HANA](./Exercises/Exercise-5.md)
+- [Exercise 6 – Review your first scoping decision and its data impact](./Exercises/Exercise-6.md)
+- [Exercise 7 – Choose your transformation objects in scope for the transition to SAP S/4HANA](./Exercises/Exercise-7.md)
+- [Exercise 8 – Review your scoping decision](./Exercises/Exercise-8.md)
+- [Exercise 9 – Scan the SAP ECC System](./Exercises/Exercise-9.md)
+- [Exercise 10 - Include Scan Results into the Digital Blueprint & Select Scanned Tables](./Exercises/Exercise-10.md)
+- [Exercise 11 – Confirm the Digital Blueprint](./Exercises/Exercise-11.md)
+- [Exercise 12 – Create a Transformation Model from your Digital Blueprint](./Exercises/Exercise-12.md)
+- [Exercise 13 – Create a Transformation Model Version](./Exercises/Exercise-13.md)	
+- [Exercise 14 – Create a Cycle and Prepare Systems for Migration](./Exercises/Exercise-14.md)
+- [Exercise 15 – Execute SAP ECC to SAP S/4HANA Data Transformation](./Exercises/Exercise-15.md)
+- [Exercise 16 – Postprocess Cycles](./Exercises/Exercise-16.md)
 
 
 ## Additional Information 
