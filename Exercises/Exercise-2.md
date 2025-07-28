@@ -14,4 +14,4 @@
 
 <code>Q2: What is the System ID and the client of the ECC source system?</code>
 
-[Exercises](../readme.md/Exercises)
+[Exercises](../README.md#exercises)
