@@ -14,8 +14,13 @@ Password: shared in session
 
 ## Steps
 
-- Download the [Readiness Check Usage Data Profiling file](RC_UDP_DMR2_DF1.zip) to your local machine 
-- Follow the instructions in [Handson-Guide](SAP-BTC-Lean-SDT-Handson-Guide.pdf)
+- Download the [Readiness Check Usage Data Profiling file](RC_UDP_DMR2_DF1.zip) to your local machine
+- Logon to [SAP Business Transformation Center handson tenant](https://clm-handson-btc.eu20.alm.cloud.sap/) 
+- Use the following username and password. Please replace “###” with your user id (displayed at your table):
+    - User: btc-###
+    - Password: <shared at session>
+- Within the launchpad app overview, select the section “**Transformation**” to navigate to the apps of the SAP Business Transformation Center.
+- Follow the below exercises
 
 ## Exercises
 - [Exercise 1 – Upload SAP Readiness Check file for SAP ERP Usage and Data Profiling (UDP)](./Exercises/Exercise-1.md)
